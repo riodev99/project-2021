@@ -1,0 +1,17 @@
+
+body{font-size: 10px; padding: 0; margin: 0;}
+a{text-decoration: none; color: #00A;}
+a:visit{color: #00f;}
+.header{padding: 10px; background-color: #55f;}
+.header a{width: 40%; color: #fff; font-weight: bold; font-size: 16px;}
+.header input{width: 60%; float: right;}
+.clear{clear:both;}
+.content{background: #f5f5f5;}
+.kategori{background-color: #FFF; overflow-x: scroll; margin: 5px;}
+.kategori a{float: left; width: 60px; text-align: center; margin: 2px;}
+.produk-judul{width: 50%; float: left;}
+.produk-more{width: 50%; text-align: right; float: left;}
+.produk{background: #FFF; float: left; width: 30%; margin: 5px; text-align: center;}
+.produk-img{width: 80%; height: 100px;}
+.footer{width: 100%; height: 80px; background-color: #000; color: #fff; text-align: center;}
+.footer a{margin: 5px; color: #FFF;}
